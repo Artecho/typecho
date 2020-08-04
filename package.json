@@ -1,0 +1,22 @@
+{
+  "name": "typecho",
+  "version": "1.1.2",
+  "description": "typecho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artecho/typecho.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Eysonyou",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Artecho/typecho/issues"
+  },
+  "homepage": "https://github.com/Artecho/typecho#readme"
+}
